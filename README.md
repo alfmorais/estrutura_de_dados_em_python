@@ -1,7 +1,7 @@
 # Estrutura de Dados e Algoritmos em Python: O Guia Completo
 
 <p>Nesse curso do Professor Jones Granatyr tem como objetivo mostrar o passo a passo da implementação de algoritmos de complexidade baixa a alta com a linguagem de programação Python.</p>
-<p>Mostrando a implementação com exemplo práticos e métodos de uso. A ferramenta utilizada é o Google Colab</p>
+<p>Mostrando a implementação com exemplo práticos e métodos de uso. A ferramenta utilizada é o Google Colab.</p>
 
 ## Grade do Curso
 
