@@ -8,11 +8,11 @@
 
 |No.|Descrição dos Contéudos do Curso         |Acesso ao Repositório|
 |---|-----------------------------------------|---------------------|
-|1  |Introdução                               |Seção 1              |
-|2  |Programação básica em Python             |Seção 2              |
-|3  |Notação Big-O para análise de algoritmos |Seção 3              |
-|4  |Vetores não ordenados                    |Seção 4              |
-|5  |Vetores ordenados                        |Seção 5              |
+|1  |Introdução                               |[Seção 1](https://github.com/alfmorais/estrutura_de_dados_em_python/tree/main/secao_1)              |
+|2  |Programação básica em Python             |[Seção 2](https://github.com/alfmorais/estrutura_de_dados_em_python/tree/main/secao_2)              |
+|3  |Notação Big-O para análise de algoritmos |[Seção 3](https://github.com/alfmorais/estrutura_de_dados_em_python/tree/main/secao_3)              |
+|4  |Vetores não ordenados                    |[Seção 4](https://github.com/alfmorais/estrutura_de_dados_em_python/tree/main/secao_4)              |
+|5  |Vetores ordenados                        |[Seção 5](https://github.com/alfmorais/estrutura_de_dados_em_python/tree/main/secao_5)              |
 |6  |Pilhas, Filas e Deques                   |Seção 6              |
 |7  |Lista encadeadas                         |Seção 7              |
 |8  |Recursão                                 |Seção 8              |
